@@ -1,2 +1,2 @@
 # GrammarAnalysisAidedTeaching
-# 文法分析
+文法分析辅助教学软件，编写了编译原理中多种文法分析方法并进行可视化。
